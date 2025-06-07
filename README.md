@@ -1,4 +1,4 @@
-## شیوه اپلود فابل فرعی
+## شیوه اپلود فایل فرعی
 برای اپلود فایل مربوط به وب سرور موجود در پوشه Data باید ابزارهای زیر استفاده کنید :
 
 [ESP8266 LittleFS Filesystem Uploader](https://github.com/earlephilhower/arduino-esp8266littlefs-plugin)

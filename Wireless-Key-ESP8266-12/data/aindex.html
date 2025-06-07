@@ -425,7 +425,6 @@ function button(id,func){
         KEY_id.textContent = this.isOn ? "on" : "off";
         KEY_id.style.transform = this.isOn ? "translateX(100%)" : "translateX(0%)";
         sendMessage(this.isOn ? "on" : "off");
-        notifay(this.isOn ? "on" : "off");
         //reload();
       }
       const KEY_obj = new toggle(true,KEY,KEY_id);
